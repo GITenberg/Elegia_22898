@@ -1,0 +1,31 @@
+_repo: Elegia_22898
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bocage, Manuel Maria Barbosa du
+    birthdate: 1765
+    deathdate: 1805
+    gutenberg_agent_id: '8542'
+    url: http://www.gutenberg.org/2009/agents/8542
+    wikipedia: http://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22898'
+language: pt
+language_note: This ebook uses 18th century spelling
+production_note: Produced by Tiago Tejo
+publication_note: "Lisboa:\r\nOffic. De Lino Da Silva Godinho\r\n1790"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese poetry'
+- !lcc 'PQ'
+title: Elegia
+url: http://www.gutenberg.org/ebooks/22898
